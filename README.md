@@ -31,7 +31,6 @@ The workflow covers:
 
 ## Links
 
-- [Kaggle Notebook](#) [(add your actual Kaggle link here)](https://www.kaggle.com/code/robertonicolsbaca/association-rules-movie-recommendation-model-r)
-
+- [Kaggle Notebook](#) [https://www.kaggle.com/code/robertonicolsbaca/association-rules-movie-recommendation-model-r]()
 ---
 © 2025 Roberto Baca
