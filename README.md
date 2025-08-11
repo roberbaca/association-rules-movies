@@ -23,6 +23,9 @@ The workflow covers:
 - arules  
 - arulesViz  
 
+## Project Report
+You can view the full analysis here: [Association Rules: Movie Recommendation Model](https://roberbaca.github.io/association-rules-movies/)
+
 ## How to Run
 
 1. Clone the repository  
